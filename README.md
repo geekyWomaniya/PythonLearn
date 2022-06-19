@@ -13,8 +13,9 @@ Git Basic commands-
 - git add 
 - git commit -m "Enter message here"
 
-- git branch
-- git checkout {Name of branch to switch}
 - git remote add origin {Git repo link}
 - git push -u origin master
 - git pull origin master
+
+- git branch
+- git checkout {Name of branch to switch}
