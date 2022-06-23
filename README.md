@@ -19,3 +19,5 @@ Git Basic commands-
 
 - git branch
 - git checkout {Name of branch to switch}
+
+git remote add origin https://github.com/geekyWomaniya/lendAnEar.git
