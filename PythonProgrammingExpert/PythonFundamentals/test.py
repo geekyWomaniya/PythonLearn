@@ -1,5 +1,4 @@
-
-
-# lst = [1,2,3]
-# for i in range(len(lst)):
-#     print(lst[i])
+print(ord('a'))
+print(ord('z'))
+print(ord('A'))
+print(ord('Z'))
